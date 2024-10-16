@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:10 
+#EXT-X-MEDIA-SEQUENCE:355711 
+#EXTINF:10.000000, 
+#EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:07:51.015-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355711.ts?v=v%3D6 
+#EXTINF:5.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:01.015-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355712.ts?v=v%3D6 
+#EXTINF:3.738689, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:06.015-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355713.ts?v=v%3D6 
+#EXTINF:5.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:09.754-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355714.ts?v=v%3D6 
+#EXTINF:10.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:14.754-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355715.ts?v=v%3D6 
+#EXTINF:5.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:24.754-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355716.ts?v=v%3D6 
+#EXTINF:5.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:29.754-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355717.ts?v=v%3D6 
+#EXTINF:5.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:34.754-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355718.ts?v=v%3D6 
+#EXTINF:5.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:39.754-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355719.ts?v=v%3D6 
+#EXTINF:10.000000, #EXT-X-PROGRAM-DATE-TIME:2024-10-16T09:08:44.754-0400 http://ts2.tvcluboficial.com/videos/magma_playstore/_355720.ts?v=v%3D6
