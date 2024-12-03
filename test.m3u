@@ -1,4 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="8" tvg-name="" tvg-logo="" group-title="INTERNACIONAL",demo
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://canal1cr.com/wp-content/uploads/2023/02/logo-canal-1-png.png",Canal 1 CR ¹
+https://59ef525c24caa.streamlock.net:443/canal1cr/canal1cr/chunklist_w1393812620.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel ¹
+https://d30230c1j3h08x.cloudfront.net:443/live2/alba-cr-repretel-c2_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel ¹
+https://d35xpyc30huab3.cloudfront.net:443/live2/alba-cr-repretel-c4_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel ¹
 https://la12hd.com/vivo/canal.php?stream=dsports
+
+
